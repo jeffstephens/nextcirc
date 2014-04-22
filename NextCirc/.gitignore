@@ -1,0 +1,5 @@
+NextCirc/Bin/*
+*.sln
+*.suo
+NextCirc/resources/*
+NextCirc/obj/*

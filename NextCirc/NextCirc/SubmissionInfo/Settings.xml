@@ -1,0 +1,6 @@
+<MarketplaceDetails>
+  <SmallAppTile>300x300.png</SmallAppTile>
+  <ScreenShots>skinker.png;stoplist.png;;;;;;;</ScreenShots>
+  <ScreenShotsWXGA>WXGA_skinker.png;WXGA_stoplist.png;;;;;;;</ScreenShotsWXGA>
+  <ScreenShots720P>720P_skinker.png;720P_stoplist.png;;;;;;;</ScreenShots720P>
+</MarketplaceDetails>
